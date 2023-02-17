@@ -2,7 +2,7 @@
     <!-- HEADER -->
     <div>
       <!-- TITLE WRAPPER -->
-      <div class="flex flex-1 justify-between content-end">
+      <div class="flex flex-1 justify-between content-end my-4">
         <h2 class="text-blue-600 text-3xl">AstaInsieme</h2>
         <div class="">
           <svg

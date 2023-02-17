@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full flex justify-between text-center py-3">
+    <div class="w-full flex justify-between text-center py-3 mt-4">
         <div class="chips flex p-1">
           <select class="outline-none pl-2">
             <option>Tipologia</option>
