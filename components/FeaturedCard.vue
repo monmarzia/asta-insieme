@@ -11,7 +11,7 @@
           <p class="text-xs text-gray-800 mt-4">
             m2 184,05 | n° camere 3 | n° bagni 2 | Beni acc. 2
           </p>
-          <p class="mt-4">Offerta minima <span> € 79.312,00</span></p>
+          <p class="mt-4">Offerta minima <span class="text-blue-500 font-semibold"> € 79.312,00</span></p>
           <div class="flex w-full justify-between mt-6">
             <span class="text-xs text-pink-500">Scadenza asta 17 gennaio 2023</span>
             <svg
