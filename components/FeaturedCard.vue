@@ -4,15 +4,15 @@
             <img :src="img.image" class="card-img" />
             <span class="chips-pink absolute top-1.5 right-1.5">- 30%</span>
           </div>
-          <p>
+          <p class="mt-6">
             VILLETTA VIA MAESTRO FILLIOL 4 FENESTRELLE MENTOULLES DI 184,05 MQ. OLTRE BOX
             E TERRENI
           </p>
-          <p class="text-xs text-gray-800">
+          <p class="text-xs text-gray-800 mt-4">
             m2 184,05 | n° camere 3 | n° bagni 2 | Beni acc. 2
           </p>
-          <p>Offerta minima <span> € 79.312,00</span></p>
-          <div class="flex w-full justify-between">
+          <p class="mt-4">Offerta minima <span> € 79.312,00</span></p>
+          <div class="flex w-full justify-between mt-6">
             <span class="text-xs text-pink-500">Scadenza asta 17 gennaio 2023</span>
             <svg
               xmlns="http://www.w3.org/2000/svg"

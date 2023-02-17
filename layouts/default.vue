@@ -1,5 +1,5 @@
 <template>
-    <div class="container w-2/3 mx-auto">
+    <div class="container w-3/4 mx-auto">
     <Header />
     <slot />
     <Footer />

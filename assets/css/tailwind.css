@@ -10,7 +10,7 @@
         @apply bg-gray-100 rounded-lg border-2 border-gray-200 p-3;
     }
     .card {
-        @apply p-3 rounded-lg bg-white shadow-md h-full w-[300px] mx-1;
+        @apply p-3 rounded-lg bg-white shadow-md h-[500px] w-[300px] mx-1;
     }
     .card-img {
         @apply rounded-lg w-full aspect-[4/3]; 
@@ -25,6 +25,6 @@
         @apply rounded-xl mx-auto w-full flex border-2 border-gray-400
     }
     .footer-rounded {
-        @apply rounded-t-3xl border-t-2 border-r-2 border-l-2 border-gray-400
+        @apply fixed inset-x-20 bottom-0 rounded-t-3xl border-t-2 border-r-2 border-l-2 border-gray-400
     }
 }
