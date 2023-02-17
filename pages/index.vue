@@ -11,9 +11,9 @@
 
 <script setup>
 const imgs = [
-  "~/assets/images/avi-waxman-f9qZuKoZYoY-unsplash.jpg",
-  "~/assets/images/ronnie-george-9gGvNWBeOq4-unsplash.jpg",
-  "~/assets/images/webaliser-_TPTXZd9mOo-unsplash.jpg",
+  "/images/avi-waxman-f9qZuKoZYoY-unsplash.jpg",
+  "/images/ronnie-george-9gGvNWBeOq4-unsplash.jpg",
+  "/images/webaliser-_TPTXZd9mOo-unsplash.jpg",
 ];
 </script>
 

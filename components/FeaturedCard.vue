@@ -1,7 +1,7 @@
 <template>
     <div class="card">
           <div class="relative">
-            <img :src="imgUrl" class="card-img" />
+            <img :src="img.image" class="card-img" />
             <span class="chips-pink absolute top-1.5 right-1.5">- 30%</span>
           </div>
           <p>
@@ -34,7 +34,7 @@
 
 <script setup>
 const img = defineProps(['image']);
-const imgUrl = '/images/webaliser-_TPTXZd9mOo-unsplash.jpg'
+// const imgUrl = '/images/webaliser-_TPTXZd9mOo-unsplash.jpg'
 </script>
 
 <style scoped>
