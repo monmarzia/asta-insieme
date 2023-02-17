@@ -1,6 +1,6 @@
 <template>
   <div class="main-container">
-    <FilterBar />
+    <FiltersBar />
     <div class="container flex w-full justify-center">
       <template v-for="img in imgs">
         <FeaturedCard :image="img" />
