@@ -12,7 +12,7 @@
         clip-rule="evenodd"
       />
     </svg>
-    <input type="text" name="" id="" placeholder="Inserisci una provincia" />
+    <input class="outline-none grow" type="text" name="" id="" placeholder="Inserisci una provincia" />
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
